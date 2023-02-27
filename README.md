@@ -29,7 +29,7 @@
 
 Вывод bowtie после выравнивания на хромосому:
 
-*Для первой реплики:
+- Для первой реплики:
 ```
 12215124 reads; of these:
   12215124 (100.00%) were unpaired; of these:
@@ -38,7 +38,8 @@
     2322248 (19.01%) aligned >1 times
 23.13% overall alignment rate 
 ```
-*Для второй реплики:
+
+- Для второй реплики:
 ```
 8182996 reads; of these:
   8182996 (100.00%) were unpaired; of these:
@@ -47,7 +48,8 @@
     1348758 (16.48%) aligned >1 times
 20.21% overall alignment rate
 ```
-*Для контроля:
+
+- Для контроля:
 ```
 13434474 reads; of these:
   13434474 (100.00%) were unpaired; of these:
