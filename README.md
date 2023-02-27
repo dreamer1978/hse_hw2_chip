@@ -70,9 +70,9 @@
 - Для первой реплики:
 
 ![Screenshot](Intervene_venn.jpg)
-![Screenshot]('Intervene_venn (1).jpg')
+![Screenshot](Intervene_venn_1.jpg)
 
 - Для второй реплики:
 
-![Screenshot](Intervene_venn (2).jpg)
-![Screenshot](Intervene_venn (3).jpg)
+![Screenshot](Intervene_venn_2.jpg)
+![Screenshot](Intervene_venn_3.jpg)
