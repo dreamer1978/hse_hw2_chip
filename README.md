@@ -26,3 +26,14 @@
 ![Screenshot](ENCFF282SBH_trimmed.png)
 
 Качество чтений улучшается.
+
+Вывод bowtie после выравнивания на хромосому:
+
+*
+12215124 reads; of these:
+  12215124 (100.00%) were unpaired; of these:
+    9389264 (76.87%) aligned 0 times
+    503612 (4.12%) aligned exactly 1 time
+    2322248 (19.01%) aligned >1 times
+23.13% overall alignment rate 
+*
