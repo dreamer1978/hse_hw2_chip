@@ -68,4 +68,11 @@
 Строим диаграммы Вена:
 
 - Для первой реплики:
+
+![Screenshot](Intervene_venn.jpg)
+![Screenshot](Intervene_venn (1).jpg)
+
 - Для второй реплики:
+
+![Screenshot](Intervene_venn (2).jpg)
+![Screenshot](Intervene_venn (3).jpg)
