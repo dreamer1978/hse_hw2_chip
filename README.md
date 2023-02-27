@@ -70,7 +70,7 @@
 - Для первой реплики:
 
 ![Screenshot](Intervene_venn.jpg)
-![Screenshot]("Intervene_venn (1).jpg")
+![Screenshot]('Intervene_venn (1).jpg')
 
 - Для второй реплики:
 
