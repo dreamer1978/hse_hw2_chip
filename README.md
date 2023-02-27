@@ -18,8 +18,11 @@
 ![Screenshot](ENCFF889AII_fastqc.png)
 ![Screenshot](ENCFF500BZD_fastqc.png)
 ![Screenshot](ENCFF282SBH_fastqc.png)
+
 Применяем подрезание чтений.
+
 ![Screenshot](ENCFF889AII_trimmed.png)
 ![Screenshot](ENCFF500BZD_trimmed.png)
 ![Screenshot](ENCFF282SBH_trimmed.png)
+
 Качество чтений улучшается.
